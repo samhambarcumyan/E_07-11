@@ -1,0 +1,11 @@
+C:\Users\Hambardzumyan\Desktop\Е_07-11 homework\PlanetClasses\obj\Debug\net10.0\PlanetClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hambardzumyan\Desktop\Е_07-11 homework\PlanetClasses\obj\Debug\net10.0\PlanetClasses.AssemblyInfoInputs.cache
+C:\Users\Hambardzumyan\Desktop\Е_07-11 homework\PlanetClasses\obj\Debug\net10.0\PlanetClasses.AssemblyInfo.cs
+C:\Users\Hambardzumyan\Desktop\Е_07-11 homework\PlanetClasses\obj\Debug\net10.0\PlanetClasses.csproj.CoreCompileInputs.cache
+C:\Users\Hambardzumyan\Desktop\Е_07-11 homework\PlanetClasses\bin\Debug\net10.0\PlanetClasses.deps.json
+C:\Users\Hambardzumyan\Desktop\Е_07-11 homework\PlanetClasses\bin\Debug\net10.0\PlanetClasses.dll
+C:\Users\Hambardzumyan\Desktop\Е_07-11 homework\PlanetClasses\bin\Debug\net10.0\PlanetClasses.pdb
+C:\Users\Hambardzumyan\Desktop\Е_07-11 homework\PlanetClasses\obj\Debug\net10.0\PlanetClasses.dll
+C:\Users\Hambardzumyan\Desktop\Е_07-11 homework\PlanetClasses\obj\Debug\net10.0\refint\PlanetClasses.dll
+C:\Users\Hambardzumyan\Desktop\Е_07-11 homework\PlanetClasses\obj\Debug\net10.0\PlanetClasses.pdb
+C:\Users\Hambardzumyan\Desktop\Е_07-11 homework\PlanetClasses\obj\Debug\net10.0\ref\PlanetClasses.dll

@@ -1,0 +1,7 @@
+C:\Users\Hambardzumyan\source\repos\Triangle_Matrix\Triangle_Matrix\bin\Debug\Triangle_Matrix.exe.config
+C:\Users\Hambardzumyan\source\repos\Triangle_Matrix\Triangle_Matrix\bin\Debug\Triangle_Matrix.exe
+C:\Users\Hambardzumyan\source\repos\Triangle_Matrix\Triangle_Matrix\bin\Debug\Triangle_Matrix.pdb
+C:\Users\Hambardzumyan\source\repos\Triangle_Matrix\Triangle_Matrix\obj\Debug\Triangle_Matrix.csproj.AssemblyReference.cache
+C:\Users\Hambardzumyan\source\repos\Triangle_Matrix\Triangle_Matrix\obj\Debug\Triangle_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Hambardzumyan\source\repos\Triangle_Matrix\Triangle_Matrix\obj\Debug\Triangle_Matrix.exe
+C:\Users\Hambardzumyan\source\repos\Triangle_Matrix\Triangle_Matrix\obj\Debug\Triangle_Matrix.pdb
